@@ -32,7 +32,7 @@ arcade.set_background_color(arcade.color.WHITE)
 arcade.start_render()
 
 
-                #Y line      #height
+                #Y line       #height
 
 arcade.draw_line(120, 1400,120,500, arcade.color.BLUE,6)
 
